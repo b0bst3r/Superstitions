@@ -1,4 +1,4 @@
-Mod lineup almost finalised
+Mod lineup finalised
 
 Bug squashing still ongoing
 
@@ -9,3 +9,5 @@ HQM ??
 Testing brand new mods still
 
 ETA for release .... soon
+
+Currently testing pack on Tybak Private
