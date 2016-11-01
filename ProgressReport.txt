@@ -4,10 +4,8 @@ Bug squashing still ongoing
 
 Crushed the world gen issue with Quark Realistic, was caused by Agricultural Revolution's Coral biomes.
 
-HQM ??
-
 Testing brand new mods still
 
-ETA for release .... soon
+ETA for release .... Submitted to ATLauncher 31st Oct
 
 Currently testing pack on Tybak Private
