@@ -9,4 +9,5 @@ Well known mods such as EnderIO, Mekanism, Immersive Engineering which you love 
 
 Don't ask me to unlock the mods either, go play another pack and do your old boring progression which you will always do.
 
-Mod mapping - https://drive.google.com/file/d/0B6KOnd8O8swgUlJuU1U0UEJmbWs
+Mod mapping - https://drive.google.com/file/d/0B6KOnd8O8swgUlJuU1U0UEJmbWs Click "Open With" and choose draw.io to view properly.
+ 
