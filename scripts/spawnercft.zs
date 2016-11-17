@@ -1,0 +1,1 @@
+recipes.addShaped(<spawnercraft:mobCage>, [[<actuallyadditions:itemMisc:20>, <actuallyadditions:itemMisc:20>, <actuallyadditions:itemMisc:20>], [<actuallyadditions:itemMisc:20>, <enderio:itemBrokenSpawner>, <actuallyadditions:itemMisc:20>], [<actuallyadditions:itemMisc:20>, <actuallyadditions:itemMisc:20>, <actuallyadditions:itemMisc:20>]]);

@@ -1,0 +1,1 @@
+mods.actuallyadditions.Crusher.addRecipe(<minecraft:ender_pearl>, <appliedenergistics2:material:46>);

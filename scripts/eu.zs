@@ -1,0 +1,3 @@
+recipes.addShaped(<extrautils2:IneffableGlass> * 8, [[<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>], [<ore:blockGlass>, <extrautils2:SunCrystal>, <ore:blockGlass>], [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>]]);
+
+recipes.addShaped(<extrautils2:IneffableGlass:2> * 8, [[<extrautils2:DecorativeGlass>, <extrautils2:DecorativeGlass>, <extrautils2:DecorativeGlass>], [<extrautils2:DecorativeGlass>, <extrautils2:SunCrystal>, <extrautils2:DecorativeGlass>], [<extrautils2:DecorativeGlass>, <extrautils2:DecorativeGlass>, <extrautils2:DecorativeGlass>]]);
