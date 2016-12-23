@@ -1,6 +1,5 @@
 //Embers Fixes
 
-import mods.tconstruct.Casting;
 import mods.immersiveengineering.MetalPress; 
 
 val IronIngot = <ore:ingotIron>;
@@ -142,6 +141,3 @@ recipes.addShaped(CinderStaff,				[[SilverPlate, EmberShard, SilverPlate],
 											[DawnstoneIngot, Stick, DawnstoneIngot],
 											[null, Stick, null]]);
 
-//Silver Plate Fixes
-Casting.removeTableRecipe(SilverPlate);
-MetalPress.removeRecipe(SilverPlate);
