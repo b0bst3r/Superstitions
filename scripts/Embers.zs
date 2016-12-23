@@ -141,3 +141,5 @@ recipes.addShaped(CinderStaff,				[[SilverPlate, EmberShard, SilverPlate],
 											[DawnstoneIngot, Stick, DawnstoneIngot],
 											[null, Stick, null]]);
 
+//Silver Plate Fixes
+MetalPress.removeRecipe(SilverPlate);
