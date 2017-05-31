@@ -52,7 +52,7 @@ recipes.addShaped(IronPipe *8,				[[IronPlate, CaminitePlate, IronPlate]]);
 
 //Item Pipe
 recipes.remove(ItemPipe);
-recipes.addShaped(IronPipe *8,				[[LeadPlate, CaminitePlate, LeadPlate]]);
+recipes.addShaped(ItemPipe *8,				[[LeadPlate, CaminitePlate, LeadPlate]]);
 
 //Bin
 recipes.remove(Bin);
